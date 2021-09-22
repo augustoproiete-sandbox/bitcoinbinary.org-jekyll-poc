@@ -1,0 +1,16 @@
+#windows
+Thumbs.db
+
+#osx
+.DS_Store
+._*
+
+#jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+#bundler
+.bundle/
+vendor/
